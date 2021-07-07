@@ -1,8 +1,8 @@
 {
   "catalogs": {},
   "aliases": {
-    "issue886WithORM": {
-      "script-ref": "reactive/issues/issue886WithORM.java",
+    "Issue886WithORM": {
+      "script-ref": "reactive/issues/Issue886WithORM.java",
       "description": ""
     }
   }
