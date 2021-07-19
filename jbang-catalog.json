@@ -3,11 +3,11 @@
   "aliases": {
     "Issue886WithORM": {
       "script-ref": "Issue886WithORM.java",
-      "description": ""
+      "description": "Reproducer using ORM only"
     },
     "Issue886": {
       "script-ref": "Issue886.java",
-      "description": ""
-    },
+      "description": "Working example using reactive"
+    }
   }
 }
