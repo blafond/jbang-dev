@@ -4,6 +4,10 @@
     "Issue886WithORM": {
       "script-ref": "Issue886WithORM.java",
       "description": ""
-    }
+    },
+    "Issue886": {
+      "script-ref": "Issue886.java",
+      "description": ""
+    },
   }
 }
